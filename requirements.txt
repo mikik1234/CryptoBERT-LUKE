@@ -7,3 +7,9 @@ torch == 1.12.1+cu113
 xlsxwriter == 3.0.3
 nltk == 3.7
 sklearn == 1.0.2
+json == 2.0.9
+os
+time
+praw == 7.6.0
+tqdm == 4.64.0
+reddit-data-collector == 1.1.0
