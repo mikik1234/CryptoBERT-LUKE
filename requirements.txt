@@ -13,3 +13,9 @@ time
 praw == 7.6.0
 tqdm == 4.64.0
 reddit-data-collector == 1.1.0
+requests == 2.23.0
+sys == 3.7.13
+datetime
+warnings
+io
+contextlib
