@@ -1,4 +1,4 @@
-# thesis-code
+# CryptoBERT Language Model and LUKE emoji sentiment lexicon
 
 Data used to Post-Train CryptoBERT:
 https://huggingface.co/datasets/ElKulako/cryptobert-posttrain
